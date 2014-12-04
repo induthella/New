@@ -1,0 +1,29 @@
+{
+	"g1":{
+			"name":"Animal Wall Clock",
+			"price":"5000",
+			"image":"wallclocks/page3-clock1.jpg",
+			"description":"Product description goes here. Aliquam tincidunt diam varius ultricies auctor. Vivamus faucibus risus tempus, adipiscing "
+		},
+	"g2":{
+			"name":"House Wall Clock",
+			"price":"6000",
+			"image":"wallclocks/page3-clock2.jpg",
+			"description":"Product description goes here. Aliquam tincidunt diam varius ultricies auctor. Vivamus faucibus risus tempus, adipiscing "
+
+		},
+	"g3":{
+			"name":"Clock",
+			"price":"5000",
+			"image":"wallclocks/page3-clock3.jpg",
+			"description":"Product description goes here. Aliquam tincidunt diam varius ultricies auctor. Vivamus faucibus risus tempus, adipiscing "
+		},
+	"g4":{
+			"name":"Amiba Wall Clock",
+			"price":"6000",
+			"image":"wallclocks/page3-clock4.jpg",
+			"description":"Product description goes here. Aliquam tincidunt diam varius ultricies auctor. Vivamus faucibus risus tempus, adipiscing "
+		}
+
+	
+}

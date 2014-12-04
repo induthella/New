@@ -1,0 +1,20 @@
+var movies = [
+
+    {
+        "id":1,"name":"wall clcok","genre":"Time line","outline":"as","image":"wallclocks/page3-clock8.jpg","rating":1000,
+        "director": "Frank Darabont",
+        "year": 1994,
+        "stars": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ],
+        "runtime": 142,
+        "genre": "Random",
+        "certificate": "R",
+        "date": "1974-04-30T10:29:29+05:30",
+        "actor": "Tim Robbins"
+        
+    }
+
+]
